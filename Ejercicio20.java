@@ -32,9 +32,9 @@ public class Ejercicio20 {
         int jornadaex = (salario * 2) * horasExtra ;
         int total = jornada + jornadaex;
 
-        System.out.println("¿Trabajaste más de 40 horas?" + trabajaste);
-        System.out.println("¿Tienes derecho a horas extra?" + derecho);
-        System.out.println("¿Se aplican horas extra?" + aplicaX);
+        System.out.println("¿Trabajaste más de 40 horas? " + trabajaste);
+        System.out.println("¿Tienes derecho a horas extra? " + derecho);
+        System.out.println("¿Se aplican horas extra? " + aplicaX);
 
         System.out.println("Salario por horas normales= " + jornada);
         System.out.println("Salario por horas extra= " + jornadaex);

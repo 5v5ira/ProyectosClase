@@ -7,7 +7,7 @@ public class Ejercicio18 {
     public static void main(String args[]) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Introce el primer numero " );
+        System.out.print("Introduce el primer numero " );
         int num1 = scanner.nextInt();
 
         System.out.print("Introduce el segundo numero " );
